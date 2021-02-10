@@ -10,8 +10,7 @@
   color: orange;
 }
 .content-box {
-	width: 500;
-	padding: 25;
-	border: 5 red;
+	width: 500px;
+	border: 5px solid red;
 	background: teal;
 }
