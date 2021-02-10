@@ -1,6 +1,3 @@
-.title {
-  color: orange;
-}
 .dark {
   background-color: black;
   color: white;
@@ -11,4 +8,10 @@
 }
 #orange-paragraph {
   color: orange;
+}
+.content-box {
+	width: 500;
+	padding: 25;
+	border: 5 solid red;
+	background: teal;
 }
