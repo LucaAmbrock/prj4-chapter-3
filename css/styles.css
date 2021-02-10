@@ -12,6 +12,6 @@
 .content-box {
 	width: 500;
 	padding: 25;
-	border: 5 solid red;
+	border: 5 red;
 	background: teal;
 }
